@@ -1,0 +1,3 @@
+# ampushare
+
+AmpuShare
